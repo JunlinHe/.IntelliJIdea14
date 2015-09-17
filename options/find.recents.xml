@@ -1,0 +1,19 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>BMAP_POINT_SIZE_SMALL</find>
+      <find>BMAP_POINT_SHAPE_STAR</find>
+      <find>1.jpg</find>
+      <find>.jp</find>
+      <find>title.</find>
+      <find>PointCollection</find>
+      <find>addOverlay</find>
+      <find>.png</find>
+      <find>double getLng</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>1.png</replace>
+      <replace>float getLng</replace>
+    </replaceStrings>
+  </component>
+</application>
