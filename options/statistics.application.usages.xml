@@ -1,61 +1,73 @@
 <application>
   <component name="StatisticsApplicationUsages">
-    <group name="run-configuration-type-temp">
-      <project id="Test" values="Application" collectionTime="1442459691680" />
-      <project id="BaiduMap" values="Application" collectionTime="1442461417741" />
-    </group>
-    <group name="language-level">
-      <project id="Test" values="JDK_1_8" collectionTime="1442459691857" />
-      <project id="BaiduMap" values="JDK_1_8" collectionTime="1442461417780" />
-      <project id="IdeaSRC" values="JDK_1_6" collectionTime="1442303307119" />
-    </group>
-    <group name="frameworks">
-      <project id="Test" values="web" collectionTime="1442459691679" />
-      <project id="BaiduMap" values="web" collectionTime="1442461417741" />
-      <project id="IdeaSRC" values="web" collectionTime="1442303307001" />
-    </group>
     <group name="JavaScript versions">
+      <project id="TestSemanticUI" values="DEFAULT" collectionTime="1443064756756" />
+      <project id="BaiduMap" values="DEFAULT" collectionTime="1442989014789" />
       <project id="Test" values="DEFAULT" collectionTime="1442459691860" />
-      <project id="BaiduMap" values="DEFAULT" collectionTime="1442461417781" />
       <project id="IdeaSRC" values="DEFAULT" collectionTime="1442303307776" />
+    </group>
+    <group name="module type">
+      <project id="TestSemanticUI" values="JAVA_MODULE" collectionTime="1443064756476" />
+      <project id="BaiduMap" values="JAVA_MODULE" collectionTime="1442989014380" />
+      <project id="Test" values="JAVA_MODULE" collectionTime="1442459691680" />
+      <project id="IdeaSRC" values="JAVA_MODULE" collectionTime="1442303307001" />
+    </group>
+    <group name="vcs">
+      <project id="BaiduMap" values="Git" collectionTime="1442989014379" />
+      <project id="TestSemanticUI" values="Git" collectionTime="1443064756476" />
     </group>
     <group name="run-configuration-type">
       <project id="Test" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1442459691680" />
-      <project id="BaiduMap" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1442461417741" />
+      <project id="BaiduMap" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1442989014381" />
+      <project id="TestSemanticUI" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1443064756477" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="Test" values="Application" collectionTime="1442459691680" />
+      <project id="BaiduMap" values="Application" collectionTime="1442989014381" />
     </group>
     <group name="file-type">
+      <project id="TestSemanticUI" values="Images,HTML,XML,UNKNOWN,JSP,JavaScript,IDEA_MODULE,PLAIN_TEXT,CSS" collectionTime="1443064756717" />
+      <project id="BaiduMap" values="XML,Images,HTML,IDEA_MODULE,JavaScript,ARCHIVE,JAVA,PLAIN_TEXT,UNKNOWN" collectionTime="1442989014513" />
       <project id="Test" values="UNKNOWN,XML" collectionTime="1442459691821" />
-      <project id="BaiduMap" values="JavaScript,IDEA_MODULE,Images,PLAIN_TEXT,XML,UNKNOWN,ARCHIVE,HTML,JAVA" collectionTime="1442461417779" />
-      <project id="IdeaSRC" values="UNKNOWN,XML,IDEA_MODULE,JavaScript,HTML,Images" collectionTime="1442303307094" />
-    </group>
-    <group name="module type">
-      <project id="Test" values="JAVA_MODULE" collectionTime="1442459691680" />
-      <project id="BaiduMap" values="JAVA_MODULE" collectionTime="1442461417741" />
-      <project id="IdeaSRC" values="JAVA_MODULE" collectionTime="1442303307001" />
+      <project id="IdeaSRC" values="UNKNOWN,JavaScript,HTML,XML,IDEA_MODULE,Images" collectionTime="1442303307094" />
     </group>
     <group name="javaScript Scope Usages">
+      <project id="TestSemanticUI" values="Project,Project" collectionTime="1443064756756" />
+      <project id="BaiduMap" values="Project,Project" collectionTime="1442989014789" />
       <project id="Test" values="Project,Project" collectionTime="1442459691860" />
-      <project id="BaiduMap" values="Project,Project" collectionTime="1442461417781" />
       <project id="IdeaSRC" values="Project,Project" collectionTime="1442303307775" />
+    </group>
+    <group name="frameworks">
+      <project id="TestSemanticUI" values="web" collectionTime="1443064756476" />
+      <project id="BaiduMap" values="web" collectionTime="1442989014379" />
+      <project id="Test" values="web" collectionTime="1442459691679" />
+      <project id="IdeaSRC" values="web" collectionTime="1442303307001" />
+    </group>
+    <group name="language-level">
+      <project id="TestSemanticUI" values="JDK_1_6" collectionTime="1443064756754" />
+      <project id="BaiduMap" values="JDK_1_8" collectionTime="1442989014546" />
+      <project id="Test" values="JDK_1_8" collectionTime="1442459691857" />
+      <project id="IdeaSRC" values="JDK_1_6" collectionTime="1442303307119" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
       <entry feature="CreateFile.CreateFileAction" count="2" />
-      <entry feature="OpenInBrowser.Chrome" count="7" />
+      <entry feature="OpenInBrowser.Chrome" count="10" />
       <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="2" />
-      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="32" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="37" />
       <entry feature="execute.Application.Run" count="15" />
-      <entry feature="ide.settings.Appearance" count="9" />
+      <entry feature="ide.help.refactoring.renameFile" count="1" />
+      <entry feature="ide.settings.Appearance" count="10" />
       <entry feature="ide.settings.Application&#10;Servers" count="1" />
-      <entry feature="ide.settings.Colors_&amp;_Fonts" count="2" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="3" />
       <entry feature="ide.settings.File_Encodings" count="1" />
-      <entry feature="ide.settings.Font" count="1" />
+      <entry feature="ide.settings.Font" count="2" />
       <entry feature="ide.settings.GitHub" count="1" />
       <entry feature="ide.settings.Keymap" count="4" />
       <entry feature="ide.settings.Project_Structure" count="2" />
       <entry feature="ide.settings.Tomcat_Server" count="1" />
-      <entry feature="ideaapp.started" count="7" />
+      <entry feature="ideaapp.started" count="10" />
       <entry feature="tips.of.the.day.next" count="22" />
       <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
     </counts>

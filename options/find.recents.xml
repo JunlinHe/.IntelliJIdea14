@@ -10,10 +10,19 @@
       <find>addOverlay</find>
       <find>.png</find>
       <find>double getLng</find>
+      <find>../dist</find>
+      <find>table</find>
+      <find>sidebar</find>
+      <find>https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js</find>
     </findStrings>
     <replaceStrings>
       <replace>1.png</replace>
       <replace>float getLng</replace>
+      <replace>dist</replace>
+      <replace>//cdn.bootcss.com/jquery/1.11.3/jquery.min.js</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>E:\IdeaSRC\TestBootStrap\web</dir>
+    </dirStrings>
   </component>
 </application>
